@@ -30,7 +30,7 @@ export default function Home() {
           <Section>
             <div className="flex flex-row justify-center items-center space-x-3">
               <a href="https://fresh.deno.dev">
-                <img width="197" height="37" src="https://fresh.deno.dev/fresh-badge-dark.svg" alt="Made with Fresh" />
+                <img width="197" height="37" src="https://fresh.deno.dev/fresh-badge.svg" alt="Made with Fresh" />
               </a>
               <a href="https://github.com/jesuscovam/my-website-deno" class="text-indigo-400 underline cursor-pointer">source</a>
             </div>
