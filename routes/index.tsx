@@ -32,7 +32,7 @@ export default function Home() {
               <a href="https://fresh.deno.dev">
                 <img width="197" height="37" src="https://fresh.deno.dev/fresh-badge-dark.svg" alt="Made with Fresh" />
               </a>
-              <a class="text-indigo-400 underline cursor-pointer">source</a>
+              <a href="https://github.com/jesuscovam/my-website-deno" class="text-indigo-400 underline cursor-pointer">source</a>
             </div>
           </Section>
         </footer>
