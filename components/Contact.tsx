@@ -33,9 +33,9 @@ export function Contact() {
             <div>
                 <img
                     className="rounded-2xl"
-                    src="/jesus.jpg"
-                    width="200"
-                    height="200"
+                    src="/jesus.webp"
+                    width="360"
+                    height="360"
                 />
             </div>
             <div className="flex flex-col space-y-1 text-left">
