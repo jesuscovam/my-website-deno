@@ -1,3 +1,4 @@
+import { asset } from "$fresh/runtime.ts";
 interface Song {
     title: string
     src: string
@@ -26,7 +27,7 @@ export function Songs() {
                 {songs?.map(({ title, src }) => (
                     <div key={title} className="mt-2 flex flex-col space-y-2">
                         <p className="font-medium italic">{title}</p>
-                        <audio controls src={src} />
+                        <audio controls src={asset(src)} />
                     </div>
                 ))}
             </div>
