@@ -13,7 +13,7 @@ export default function Home() {
     <>
       <Head>
         <title>inherit desire to be written in rust</title>
-        <a rel="me" href="https://indieweb.social/@morgoritho">Mastodon</a>
+        <a rel="me" href="https://indieweb.social/@morgoritho" />
       </Head>
       <div className="flex min-h-screen flex-col items-center justify-center py-4  ">
         <Section>
